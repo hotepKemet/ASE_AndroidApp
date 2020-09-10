@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ASE_LTD</string>
+
+    <string name="com_auth0_client_id">i9dEWtRosqwMR7amf45s5Tu96KauvJ3u</string>
+    <string name="com_auth0_domain">aseltd.eu.auth0.com</string>
+    <string name="logoText">ASE Ltd</string>
+    <string name="logoDescription">logo</string>
+    <string name="loginPage">Log in</string>
+    <string name="loginButton">LOG IN  ></string>
+    <string name="logoutPage">Log out</string>
+    <string name="or_text">OR</string>
+    <string name="forgot_txt">Don\'t remember your password?</string>
+    <string name="psw_hint">your password</string>
+    <string name="email_hint">yours@example.com</string>
+</resources>
